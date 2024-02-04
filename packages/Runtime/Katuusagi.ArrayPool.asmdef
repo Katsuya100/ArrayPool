@@ -1,0 +1,16 @@
+{
+    "name": "Katuusagi.ArrayPool",
+    "rootNamespace": "Katuusagi.Pool",
+    "references": [
+        "GUID:cd28306582c6a374cbeebbb756339a19"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,21 @@
+{
+    "name": "com.katuusagi.arraypool",
+    "displayName": "ArrayPool",
+    "description": "A system for pooling boxed objects.\nUnsafe is used to write directly to the boxed object to enable reuse.",
+    "version": "1.0.0",
+    "unity": "2021.3",
+    "dependencies": {
+        "com.unity.test-framework.performance": "3.0.2",
+        "com.katuusagi.genericenhance": "1.0.2"
+    },
+    "keywords": [
+        "allocation",
+        "memory"
+    ],
+    "author": {
+        "name": "Katuusagi a.k.a Katsuya100"
+    },
+    "documentationUrl": "https://github.com/Katsuya100/ArrayPool",
+    "changelogUrl": "https://github.com/Katsuya100/ArrayPool/releases",
+    "licensesUrl": "https://github.com/Katsuya100/ArrayPool/blob/v1.0.0/LICENSE"
+}

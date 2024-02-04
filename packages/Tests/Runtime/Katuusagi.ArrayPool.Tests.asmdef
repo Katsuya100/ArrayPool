@@ -1,0 +1,20 @@
+{
+    "name": "Katuusagi.ArrayPool.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8ba78fa771f4c0e45a200cb477cdb5ab",
+        "GUID:c0dd0d10738d4ad4a9de57c559d0ca1b",
+        "GUID:cd28306582c6a374cbeebbb756339a19"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
